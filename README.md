@@ -1,6 +1,8 @@
-## BBPLOT
+## GRISTIFY
 
-This repo contains the functions of the `bbplot` package, which once installed locally, provides helpful functions for creating and exporting  graphics made in ggplot in the style used by the BBC News data team.
+This repo contains the functions of the `gristify` package, which once installed locally, provides helpful functions for creating and exporting graphics made in ggplot in the style used by the Grist data team. We forked it from the BBC's `bbplot` repo. Thanks, BBC!
+
+> UPDATE README BELOW
 
 ![Example of graphics created using the bbplot package](chart_examples/bbplot_example_plots.png)
 
